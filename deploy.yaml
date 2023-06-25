@@ -12,7 +12,6 @@ spec:
       labels:
         run: my-nginx
     spec:
-
       containers:
       - name: my-nginx
         image: docker.io/jocatalin/kubernetes-bootcamp:v1
